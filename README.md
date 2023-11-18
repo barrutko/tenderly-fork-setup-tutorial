@@ -7,7 +7,7 @@
 #### 5. Pick a name for your fork and click <ins>Create</ins>
 ![](create-fork.png "")
 #### 6. Click <ins>Fund Accounts</ins> to fund your account with ETH.
-You fund any account on the fork with 10.000 ETH. You can send this ETH to your deployer account or to accounts that are going to be actors in your system.
+You can fund any account on the fork with 10.000 ETH. You can send this ETH to your deployer account or to accounts that are going to be actors in your system.
 ![](fund-accounts.png "")
 #### 7. Connect your project to the fork
 In order to do this copy the RPC URL of the fork and use it in your project. You can also add the forked network to your metamask, so you can easily interact with your app, from your browser, using your funded account
