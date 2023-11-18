@@ -2,9 +2,9 @@
 #### 1. Create account on https://tenderly.co/
 #### 2. Navigate to the <ins>Dashboard</ins>
 #### 3. Select <ins>Forks</ins> on the left menu
-#### 4. Click <ins>Fork a Network</ins>
+#### 4. Click <ins>Fork a network</ins>
 ![](dashboard-clean.png "")
-#### 5. Pick a name for your fork and create your fork
+#### 5. Pick a name for your fork and click <ins>Create</ins>
 ![](create-fork.png "")
 #### 6. Click <ins>Fund Accounts</ins> to fund your account with ETH.
 You fund any account on the fork with 10.000 ETH. You can send this ETH to your deployer account or to accounts that are going to be actors in your system.
